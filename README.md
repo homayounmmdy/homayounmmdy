@@ -100,11 +100,11 @@ render to make large applications run more smoothly. Also you find more informat
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=homayounmmdy&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3>💻 GitHub Profile Stats</h3>
+<!-- <h3>💻 GitHub Profile Stats</h3>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=homayounmmdy&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homayounmmdy&layout=compact&theme=vision-friendly-dark)
-<br/>
+<br/> -->
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
