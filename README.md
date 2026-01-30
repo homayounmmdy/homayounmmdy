@@ -110,6 +110,21 @@ render to make large applications run more smoothly. Also you find more informat
 <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="homayounmmdy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=homayounmmdy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<!------ Open Source Projects ------>
+
+## 🌟 Open Source Projects
+
+Below are the projects I've built and actively maintain. All are open source feel free to explore, use, fork, or contribute!
+
+| 🎁 Project | 📜 Description |
+|-----------|----------------|
+| **[Nexca](https://github.com/homayounmmdy/Nexca)** | A powerful, open-source CMS admin panel built with Next.js your playground for managing content, building brands, and streamlining workflows. Perfect for creators, bloggers, and agencies. |
+| **[SnappText](https://github.com/homayounmmdy/SnappText)** | A lightning-fast snippet manager for reusable text templates with dynamic placeholders (e.g., `{{company}}`). One-click copy, local storage sync, and zero accounts required. |
+| **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** | Generate direct WhatsApp chat links instantly no need for customers to save your number first! Supports international numbers, pre-filled messages, and multi-language UI (EN/FA/DE). |
+| **[Bugify](https://github.com/homayounmmdy/Bugify)** | A sleek personal finance tracker to log expenses, manage budgets, and visualize spending habits all in one place. |
+| **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** | Visually craft perfect CSS `box-shadow` effects by adjusting offset, blur, spread, color, opacity, and inset then copy the code with one click. |
+| **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** | Create beautiful CSS linear gradients on the fly. Customize colors, direction, and preview in real time ideal for designers and developers alike. |
+
 <!------ Get In Touch ------>
 
 ## 👨‍💻  &nbsp;Get In Touch
