@@ -119,6 +119,7 @@ Below are the projects I've built and actively maintain. All are open source fee
 | 🎁 Project | 📜 Description |
 |-----------|----------------|
 | **[Nexca](https://github.com/homayounmmdy/Nexca)** | A powerful, open-source CMS admin panel built with Next.js your playground for managing content, building brands, and streamlining workflows. Perfect for creators, bloggers, and agencies. |
+| **[svg world maps](https://github.com/homayounmmdy/svg-world-maps)** | Lightweight, zero-dependency SVG maps for JavaScript frameworks. Create interactive world or country maps (USA, Germany, India, France and etc...) with customizable colors, hover effects, and click handling via data attributes. |
 | **[SnappText](https://github.com/homayounmmdy/SnappText)** | A lightning-fast snippet manager for reusable text templates with dynamic placeholders (e.g., `{{company}}`). One-click copy, local storage sync, and zero accounts required. |
 | **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** | Generate direct WhatsApp chat links instantly no need for customers to save your number first! Supports international numbers, pre-filled messages, and multi-language UI (EN/FA/DE). |
 | **[Bugify](https://github.com/homayounmmdy/Bugify)** | A sleek personal finance tracker to log expenses, manage budgets, and visualize spending habits all in one place. |
