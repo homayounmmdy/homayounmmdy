@@ -106,6 +106,11 @@ render to make large applications run more smoothly. Also you find more informat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homayounmmdy&layout=compact&theme=vision-friendly-dark)
 <br/> -->
 
+ <h3>🏆 GitHub Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=homayounmmdy&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="homayounmmdy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=homayounmmdy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
