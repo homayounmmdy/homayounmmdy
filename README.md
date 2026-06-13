@@ -131,6 +131,12 @@ Below are the projects I've built and actively maintain. All are open source fee
 | **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** | Visually craft perfect CSS `box-shadow` effects by adjusting offset, blur, spread, color, opacity, and inset then copy the code with one click. |
 | **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** | Create beautiful CSS linear gradients on the fly. Customize colors, direction, and preview in real time ideal for designers and developers alike. |
 
+<!------ Gothub Activity ------>
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=homayounmmdy&hide_border=true)
+
 <!------ Get In Touch ------>
 
 ## 👨‍💻  &nbsp;Get In Touch
