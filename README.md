@@ -115,21 +115,40 @@ render to make large applications run more smoothly. Also you find more informat
 <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="homayounmmdy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=homayounmmdy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<!------ Open Source Projects ------>
+<!------ Current Projects ------>
 
-## 🌟 Open Source Projects
+## 🌟 Current Projects
 
 Below are the projects I've built and actively maintain. All are open source feel free to explore, use, fork, or contribute!
 
-| 🎁 Project | 📜 Description |
-|-----------|----------------|
-| **[Nexca](https://github.com/homayounmmdy/Nexca)** | A powerful, open-source CMS admin panel built with Next.js your playground for managing content, building brands, and streamlining workflows. Perfect for creators, bloggers, and agencies. |
-| **[svg world maps](https://github.com/homayounmmdy/svg-world-maps)** | Lightweight, zero-dependency SVG maps for JavaScript frameworks. Create interactive world or country maps (USA, Germany, India, France and etc...) with customizable colors, hover effects, and click handling via data attributes. |
-| **[SnappText](https://github.com/homayounmmdy/SnappText)** | A lightning-fast snippet manager for reusable text templates with dynamic placeholders (e.g., `{{company}}`). One-click copy, local storage sync, and zero accounts required. |
-| **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** | Generate direct WhatsApp chat links instantly no need for customers to save your number first! Supports international numbers, pre-filled messages, and multi-language UI (EN/FA/DE). |
-| **[Bugify](https://github.com/homayounmmdy/Bugify)** | A sleek personal finance tracker to log expenses, manage budgets, and visualize spending habits all in one place. |
-| **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** | Visually craft perfect CSS `box-shadow` effects by adjusting offset, blur, spread, color, opacity, and inset then copy the code with one click. |
-| **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** | Create beautiful CSS linear gradients on the fly. Customize colors, direction, and preview in real time ideal for designers and developers alike. |
+### CMS & Visual Design Tools
+
+- 🧩 **[Nexca](https://github.com/homayounmmdy/Nexca)** - Open-source CMS admin panel built with Next.js  your playground for content management, branding, and streamlined workflows
+- 📦 **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** - Visually craft perfect CSS box-shadow effects; copy code with one click
+- 🌈 **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** - Create beautiful CSS linear gradients on the fly with real-time preview
+- 🗺️ **[SVG World Maps](https://github.com/homayounmmdy/svg-world-maps)** - Lightweight, zero-dependency SVG maps for JavaScript frameworks with hover effects and click handling
+
+### Developer Productivity
+
+- ⚡ **[SnappText](https://github.com/homayounmmdy/SnappText)** - Lightning-fast snippet manager for reusable text templates with dynamic placeholders and one-click copy
+- 🔍 **[SEO Helper](https://github.com/homayounmmdy/SEO-Helper)** - Powerful SEO analysis tool that audits any webpage directly from your browser
+- 🌐 **[rtl-text-tools](https://github.com/homayounmmdy/rtl-text-tools)** - Complete text processing toolkit for RTL languages fix ellipsis, punctuation, spacing, and more
+- 📱 **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** - Generate direct WhatsApp chat links instantly; supports international numbers and pre-filled messages
+
+### Finance & Education
+
+- 💰 **[Bugify](https://github.com/homayounmmdy/Bugify)** - Sleek personal finance tracker to log expenses, manage budgets, and visualize spending habits
+- 📚 **[Lingoo](https://github.com/homayounmmdy/Lingoo)** - Interactive web app for Persian speakers to master English idioms through trivia quizzes
+
+### Starter Templates
+
+- 🚀 **[Vite + Tailwind + React Starter](https://github.com/homayounmmdy/vite-tailwind-react-typescript-starter)** - Modern React starter template with Vite, TypeScript, and Tailwind CSS
+
+### Experiments & Simulations
+
+- 🔐 **[Enigma Simulator](https://github.com/homayounmmdy/Enigma-Simulator)** - Python simulation of the WWII German Enigma machine with rotors, reflector, and daily key sheets
+- ⏱️ **[Time Calculator](https://github.com/homayounmmdy/time-calculator)** - Simple time management tool to track tasks and time spent throughout your day
+- 🎮 **[vibeSt0re](https://github.com/homayounmmdy/vibe-st0re)** - Living portfolio of small games, practical tools, and frontend experiments built with vibe coding
 
 <!------ Gothub Activity ------>
 
