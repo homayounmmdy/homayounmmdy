@@ -143,6 +143,7 @@ Below are the projects I've built and actively maintain. All are open source fee
 ### Starter Templates
 
 - 🚀 **[Vite + Tailwind + React Starter](https://github.com/homayounmmdy/vite-tailwind-react-typescript-starter)** - Modern React starter template with Vite, TypeScript, and Tailwind CSS
+- 📊 **[Neo-Brutalism Dashboard Template](https://github.com/homayounmmdy/neo-brutalism-dashboard-template)** - A modern Neo-Brutalism styled dashboard template combining bold aesthetics 🎨, functional UI/UX, and clean developer experience.
 
 ### Experiments & Simulations
 
