@@ -120,19 +120,28 @@ render to make large applications run more smoothly. Also you find more informat
 ## 🌟 Current Projects
 
 Below are the projects I've built and actively maintain. All are open source feel free to explore, use, fork, or contribute!
+### 📦 NPM Packages
+
+- 🗺️ **[SVG World Maps](https://github.com/homayounmmdy/svg-world-maps)** - Lightweight, zero-dependency SVG maps for JavaScript frameworks with hover effects and click handling
+  [![npm version](https://img.shields.io/npm/v/svg-world-maps.svg)](https://www.npmjs.com/package/svg-world-maps)
+  [![npm downloads](https://img.shields.io/npm/dt/svg-world-maps.svg)](https://www.npmjs.com/package/svg-world-maps)
+- 🌐 **[rtl-text-tools](https://github.com/homayounmmdy/rtl-text-tools)** - Complete text processing toolkit for RTL languages fix ellipsis, punctuation, spacing, and more
+  [![npm version](https://img.shields.io/npm/v/rtl-text-tools.svg)](https://www.npmjs.com/package/rtl-text-tools)
+  [![npm downloads](https://img.shields.io/npm/dt/rtl-text-tools.svg)](https://www.npmjs.com/package/rtl-text-tools)
+- 💱 **[afn-currency-text](https://github.com/homayounmmdy/afn-currency-text)** - Convert numbers to legal Afghan Afghani (AFN) wording in Dari and Pashto. Perfect for invoices, banking, and official documents.
+  [![npm version](https://img.shields.io/npm/v/afn-currency-text.svg)](https://www.npmjs.com/package/afn-currency-text)
+  [![npm downloads](https://img.shields.io/npm/dt/afn-currency-text.svg)](https://www.npmjs.com/package/afn-currency-text)
 
 ### CMS & Visual Design Tools
 
 - 🧩 **[Nexca](https://github.com/homayounmmdy/Nexca)** - Open-source CMS admin panel built with Next.js  your playground for content management, branding, and streamlined workflows
 - 📦 **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** - Visually craft perfect CSS box-shadow effects; copy code with one click
 - 🌈 **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** - Create beautiful CSS linear gradients on the fly with real-time preview
-- 🗺️ **[SVG World Maps](https://github.com/homayounmmdy/svg-world-maps)** - Lightweight, zero-dependency SVG maps for JavaScript frameworks with hover effects and click handling
 
 ### Developer Productivity
 
 - ⚡ **[SnappText](https://github.com/homayounmmdy/SnappText)** - Lightning-fast snippet manager for reusable text templates with dynamic placeholders and one-click copy
 - 🔍 **[SEO Helper](https://github.com/homayounmmdy/SEO-Helper)** - Powerful SEO analysis tool that audits any webpage directly from your browser
-- 🌐 **[rtl-text-tools](https://github.com/homayounmmdy/rtl-text-tools)** - Complete text processing toolkit for RTL languages fix ellipsis, punctuation, spacing, and more
 - 📱 **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** - Generate direct WhatsApp chat links instantly; supports international numbers and pre-filled messages
 
 ### Finance & Education
