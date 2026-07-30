@@ -144,7 +144,7 @@ Below are the projects I've built and actively maintain. All are open source fee
 ### Experiments & Simulations
 
 - 🔐 **[Enigma Simulator](https://github.com/homayounmmdy/Enigma-Simulator)** - Python simulation of the WWII German Enigma machine with rotors, reflector, and daily key sheets
-- ⏱️ **[Time Calculator](https://github.com/homayounmmdy/time-calculator)** - Simple time management tool to track tasks and time spent throughout your day
+- ⏱️ **[Time Stack](https://github.com/homayounmmdy/timestack)** - A simple yet effective time management tool to help you track, stack, and manage tasks and time spent throughout your day.
 - 🎮 **[vibeSt0re](https://github.com/homayounmmdy/vibe-st0re)** - Living portfolio of small games, practical tools, and frontend experiments built with vibe coding
 
 <!------ Gothub Activity ------>
