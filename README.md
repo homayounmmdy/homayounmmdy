@@ -45,53 +45,110 @@ I love solving complex UI challenges, reducing page load times, and building com
 
 <h2>🛠️ Skills</h2>
 
-<h3>👨‍💻 Languages/Frameworks/Libraries:</h3>
+<h3>⚛️ Core Technologies</h3>
 
 <p>
   
-  ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
   ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+  ![React.js](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+  ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
+  ![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+  ![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=663399&logo=CSS&logoColor=FFFFFF&label=)
+  
 </p>
 
-<h3>🧰 Style</h3>
-
+<h3>🗃️ Data & State</h3>
 
 <p>
   
-  ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-222222?style=for-the-badge&logo=Tailwind+CSS&logoColor=06B6D4)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
-  ![Daisy UI](https://img.shields.io/badge/DaisyUI-222222?style=for-the-badge&logo=DaisyUI&logoColor=1AD1A5)
-  ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=Radix+UI&logoColor=FFFFFF)
-  ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=FFFFFF)
-  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=FFFFFF)
-  ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=Ant+Design&logoColor=FFFFFF)
-
+  ![React Query (TanStack Query)](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Query%20%28TanStack%20Query%29&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
+  ![Zustand](https://img.shields.io/static/v1?style=for-the-badge&message=Zustand&color=2D3748&logo=Zustand&logoColor=FFFFFF&label=)
+  ![React Context API](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Context%20API&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![React Hooks](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Hooks&color=222222&logo=React&logoColor=61DAFB&label=)
+  
 </p>
 
-<h3>🛠️ Others</h3>
-
+<h3>🎨 Styling & UI</h3>
 
 <p>
   
-  ![React query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React+Query&logoColor=FFFFFF)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
-  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=FFFFFF)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF)
-  ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
-  ![React Hooks Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=React+Hook+Form&logoColor=FFFFFF)
-  ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React+Router&logoColor=FFFFFF)
-  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=PWA&logoColor=FFFFFF)
-  ![Pagespeed Insights](https://img.shields.io/badge/PageSpeed%20Insights-4285F4?style=for-the-badge&logo=PageSpeed+Insights&logoColor=FFFFFF)
-  ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=FFFFFF)
-  ![GSAP](https://img.shields.io/badge/GSAP-222222?style=for-the-badge&logo=GSAP&logoColor=0AE448)
-  ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)
-  ![Mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF)
+  ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind%20CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+  ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF&label=)
+  ![daisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=daisyUI&color=222222&logo=DaisyUI&logoColor=1AD1A5&label=)
+  ![Sass/SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=Sass%2FSCSS&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+  ![CSS-in-JS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS-in-JS&color=222222&logo=CSS&logoColor=FFFFFF&label=)
+  ![Responsive Design](https://img.shields.io/static/v1?style=for-the-badge&message=Responsive%20Design&color=222222&label=)
+  ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+  
+</p>
 
+<h3>🧪 Testing & Quality</h3>
+
+<p>
+  
+  ![Vitest](https://img.shields.io/static/v1?style=for-the-badge&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=)
+  ![React Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Testing%20Library&color=E33332&logo=testinglibrary&logoColor=FFFFFF&label=)
+  ![MSW (Mock Service Worker)](https://img.shields.io/static/v1?style=for-the-badge&message=MSW%20%28Mock%20Service%20Worker%29&color=FF6A33&label=)
+  ![Unit & Integration Testing](https://img.shields.io/static/v1?style=for-the-badge&message=Unit%20%26%20Integration%20Testing&color=222222&label=)
+  
+</p>
+
+<h3>⚡ Performance & SEO</h3>
+
+<p>
+  
+  ![Core Web Vitals](https://img.shields.io/static/v1?style=for-the-badge&message=Core%20Web%20Vitals&color=4285F4&label=)
+  ![SSR](https://img.shields.io/static/v1?style=for-the-badge&message=SSR&color=000000&label=)
+  ![SSG](https://img.shields.io/static/v1?style=for-the-badge&message=SSG&color=000000&label=)
+  ![Lazy Loading](https://img.shields.io/static/v1?style=for-the-badge&message=Lazy%20Loading&color=222222&label=)
+  ![Code Splitting](https://img.shields.io/static/v1?style=for-the-badge&message=Code%20Splitting&color=222222&label=)
+  ![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=)
+  ![Technical SEO](https://img.shields.io/static/v1?style=for-the-badge&message=Technical%20SEO&color=4285F4&label=)
+  
+</p>
+
+<h3>🔌 Backend & API</h3>
+
+<p>
+  
+  ![REST APIs](https://img.shields.io/static/v1?style=for-the-badge&message=REST%20APIs&color=222222&label=)
+  ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
+  ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
+  ![Fetch](https://img.shields.io/static/v1?style=for-the-badge&message=Fetch&color=222222&label=)
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4479A1&label=)
+  ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
+  ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+  
+</p>
+
+<h3>🤖 AI & LLM</h3>
+
+<p>
+  
+  ![LLM API Integration](https://img.shields.io/static/v1?style=for-the-badge&message=LLM%20API%20Integration&color=222222&label=)
+  ![Prompt Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=Prompt%20Engineering&color=222222&label=)
+  ![Claude](https://img.shields.io/static/v1?style=for-the-badge&message=Claude&color=D97757&logo=Claude&logoColor=FFFFFF&label=)
+  ![OpenAI API](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI%20API&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+  ![Structured Outputs (JSON)](https://img.shields.io/static/v1?style=for-the-badge&message=Structured%20Outputs%20%28JSON%29&color=222222&label=)
+  ![Streaming Responses](https://img.shields.io/static/v1?style=for-the-badge&message=Streaming%20Responses&color=222222&label=)
+  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+  ![AI-Powered UI Features](https://img.shields.io/static/v1?style=for-the-badge&message=AI-Powered%20UI%20Features&color=222222&label=)
+  
+</p>
+
+<h3>🧩 Additional Skills</h3>
+
+<p>
+  
+  ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
+  ![GSAP](https://img.shields.io/static/v1?style=for-the-badge&message=GSAP&color=222222&logo=GSAP&logoColor=0AE448&label=)
+  ![CMS Integrations](https://img.shields.io/static/v1?style=for-the-badge&message=CMS%20Integrations&color=222222&label=)
+  ![OOP](https://img.shields.io/static/v1?style=for-the-badge&message=OOP&color=222222&label=)
+  
 </p>
 
 <!------  Stats ------>
