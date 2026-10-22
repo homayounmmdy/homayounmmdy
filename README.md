@@ -161,50 +161,60 @@ I love solving complex UI challenges, reducing page load times, and building com
 
 <!------ Current Projects ------>
 
-## 🌟 Current Projects
+## 🌟 Active Projects
 
-Below are the projects I've built and actively maintain. All are open source feel free to explore, use, fork, or contribute!
+Below are the projects I’m actively working on and maintaining. Active open-source projects are free to explore, use, fork, or contribute to. Older, archived, or no-longer-maintained projects are kept in the collapsed section at the bottom for reference.
+
 ### 📦 NPM Packages
 
-- 🗺️ **[SVG World Maps](https://github.com/homayounmmdy/svg-world-maps)** - Lightweight, zero-dependency SVG maps for JavaScript frameworks with hover effects and click handling
+- 🗺️ **[SVG World Maps](https://github.com/homayounmmdy/svg-world-maps)** — Lightweight, zero-dependency SVG maps for JavaScript frameworks with hover effects and click handling. This is my most actively updated package.
   [![npm version](https://img.shields.io/npm/v/svg-world-maps.svg)](https://www.npmjs.com/package/svg-world-maps)
   [![npm downloads](https://img.shields.io/npm/dt/svg-world-maps.svg)](https://www.npmjs.com/package/svg-world-maps)
-- 🌐 **[rtl-text-tools](https://github.com/homayounmmdy/rtl-text-tools)** - Complete text processing toolkit for RTL languages fix ellipsis, punctuation, spacing, and more
+- 🌐 **[rtl-text-tools](https://github.com/homayounmmdy/rtl-text-tools)** — Complete text processing toolkit for RTL languages: fix ellipsis, punctuation, spacing, and more.
   [![npm version](https://img.shields.io/npm/v/rtl-text-tools.svg)](https://www.npmjs.com/package/rtl-text-tools)
   [![npm downloads](https://img.shields.io/npm/dt/rtl-text-tools.svg)](https://www.npmjs.com/package/rtl-text-tools)
-- 💱 **[afn-currency-text](https://github.com/homayounmmdy/afn-currency-text)** - Convert numbers to legal Afghan Afghani (AFN) wording in Dari and Pashto. Perfect for invoices, banking, and official documents.
+
+### 📝 Personal & Blog
+
+- 📝 **[itshomayoun](https://github.com/homayounmmdy/itshomayoun)** — My personal blog repository where I share experiences, articles, and notes on programming, technology, and daily life. All content is written in Persian.
+- 🔒 **[Personal Website](https://homayunmmdy.vercel.app/)** — My private, closed-source personal website. Hosted at [homayunmmdy.vercel.app](https://homayunmmdy.vercel.app/).
+
+---
+
+<details>
+<summary>📂 Inactive / Archived Projects (not actively maintained)</summary>
+
+These projects are archived, no longer actively maintained, or no longer hosted. They’re kept here for reference only.
+
+### 📦 Inactive NPM Packages
+
+- 💱 **[afn-currency-text](https://github.com/homayounmmdy/afn-currency-text)** — Convert numbers to legal Afghan Afghani (AFN) wording in Dari and Pashto. Perfect for invoices, banking, and official documents.
   [![npm version](https://img.shields.io/npm/v/afn-currency-text.svg)](https://www.npmjs.com/package/afn-currency-text)
   [![npm downloads](https://img.shields.io/npm/dt/afn-currency-text.svg)](https://www.npmjs.com/package/afn-currency-text)
 
 ### 🛠️ Developer Productivity & UI Tools
 
-- ⚡ **[SnappText](https://github.com/homayounmmdy/SnappText)** - Lightning-fast snippet manager for reusable text templates with dynamic placeholders and one-click copy
-- 📦 **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** - Visually craft perfect CSS box-shadow effects; copy code with one click
-- 🌈 **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** - Create beautiful CSS linear gradients on the fly with real-time preview
-- 🔍 **[SEO Helper](https://github.com/homayounmmdy/SEO-Helper)** - Powerful SEO analysis tool that audits any webpage directly from your browser
-- 📱 **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** - Generate direct WhatsApp chat links instantly; supports international numbers and pre-filled messages
-- 🧩 **[Nexca](https://github.com/homayounmmdy/Nexca)** - Open-source CMS admin panel built with Next.js – your playground for content management, branding, and streamlined workflows
+- ⚡ **[SnappText](https://github.com/homayounmmdy/SnappText)** — Lightning-fast snippet manager for reusable text templates with dynamic placeholders and one-click copy.
+- 📦 **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** — Visually craft perfect CSS box-shadow effects; copy code with one click.
+- 🌈 **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** — Create beautiful CSS linear gradients on the fly with real-time preview.
+- 🔍 **[SEO Helper](https://github.com/homayounmmdy/SEO-Helper)** — Powerful SEO analysis tool that audits any webpage directly from your browser.
+- 📱 **[WhatsApp Link Generator](https://github.com/homayounmmdy/whatsapp-link-generator)** — Generate direct WhatsApp chat links instantly; supports international numbers and pre-filled messages.
+- 🧩 **[Nexca](https://github.com/homayounmmdy/Nexca)** — Open-source CMS admin panel built with Next.js — a playground for content management, branding, and streamlined workflows.
 
 ### 💼 Finance & Education
 
-- 💰 **[Bugify](https://github.com/homayounmmdy/Bugify)** - Sleek personal finance tracker to log expenses, manage budgets, and visualize spending habits
-- 📚 **[Lingoo](https://github.com/homayounmmdy/Lingoo)** - Interactive web app for Persian speakers to master English idioms through trivia quizzes
-
-### 🚀 Starter Templates
-
-- 🚀 **[Vite + Tailwind + React Starter](https://github.com/homayounmmdy/vite-tailwind-react-typescript-starter)** - Modern React starter template with Vite, TypeScript, and Tailwind CSS
-- 📊 **[Neo-Brutalism Dashboard Template](https://github.com/homayounmmdy/neo-brutalism-dashboard-template)** - A modern Neo-Brutalism styled dashboard template combining bold aesthetics 🎨, functional UI/UX, and clean developer experience.
+- 💰 **[Bugify](https://github.com/homayounmmdy/Bugify)** — Sleek personal finance tracker to log expenses, manage budgets, and visualize spending habits.
+- 📚 **[Lingoo](https://github.com/homayounmmdy/Lingoo)** — Interactive web app for Persian speakers to master English idioms through trivia quizzes.
 
 ### 🧪 Advanced Frontend & Experiments
 
-- 🌌 **[Billion Grid](https://github.com/homayounmmdy/billion-grid)** - A high-performance 1,000,000,000 x 1,000,000,000 pixel land-claiming canvas. Features infinite zoom/pan via HTML5 Canvas and a unique serverless backend using GitHub Actions & Issues to automate claim Pull Requests.
-- 🔐 **[Enigma Simulator](https://github.com/homayounmmdy/Enigma-Simulator)** - Python simulation of the WWII German Enigma machine with rotors, reflector, and daily key sheets
-- 🎬 **[GTA VI Landing](https://github.com/homayounmmdy/gta-vi)** - A full-scale, high-fidelity project replicating the immersive, cinematic animations expected of a major AAA product launch. This project serves as a deep dive into advanced frontend animation techniques, consolidating complex GSAP timelines, ScrollTrigger integrations, and sophisticated easing functions within a modern Next.js environment.
-- ⏱️ **[Time Stack](https://github.com/homayounmmdy/timestack)** - A simple yet effective time management tool to help you track, stack, and manage tasks and time spent throughout your day.
-- 🎮 **[vibeSt0re](https://github.com/homayounmmdy/vibe-st0re)** - Living portfolio of small games, practical tools, and frontend experiments built with vibe coding
+- 🌌 **[Billion Grid](https://github.com/homayounmmdy/billion-grid)** — A high-performance 1,000,000,000 x 1,000,000,000 pixel land-claiming canvas with infinite zoom/pan via HTML5 Canvas and a serverless backend using GitHub Actions & Issues.
+- 🔐 **[Enigma Simulator](https://github.com/homayounmmdy/Enigma-Simulator)** — Python simulation of the WWII German Enigma machine with rotors, reflector, and daily key sheets.
+- 🎬 **[GTA VI Landing](https://github.com/homayounmmdy/gta-vi)** — A full-scale, high-fidelity project replicating immersive AAA launch-style animations, exploring GSAP timelines, ScrollTrigger, and advanced easing in Next.js.
+- ⏱️ **[Time Stack](https://github.com/homayounmmdy/timestack)** — A simple time management tool to track, stack, and manage tasks and time spent throughout your day.
+- 🎮 **[vibeSt0re](https://github.com/homayounmmdy/vibe-st0re)** — Living portfolio of small games, practical tools, and frontend experiments built with vibe coding.
 
-### 📝 Personal & Blog
-- 📝 **[itshomayoun](https://github.com/homayounmmdy/itshomayoun)** - My personal blog repository where I share experiences, articles, and notes on programming, technology, and daily life (all content is written in Persian).
+</details>
 
 <!------ GitHub Activity ------>
 
