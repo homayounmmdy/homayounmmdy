@@ -174,6 +174,13 @@ Below are the projects I’m actively working on and maintaining. Active open-so
   [![npm version](https://img.shields.io/npm/v/rtl-text-tools.svg)](https://www.npmjs.com/package/rtl-text-tools)
   [![npm downloads](https://img.shields.io/npm/dt/rtl-text-tools.svg)](https://www.npmjs.com/package/rtl-text-tools)
 
+### 🚀 Web Applications & UI Projects
+
+- ⚡ **[SnappText](https://github.com/homayounmmdy/SnappText)** — Lightning-fast snippet manager for reusable text templates with dynamic placeholders and one-click copy.
+- ⏱️ **[Time Stack](https://github.com/homayounmmdy/timestack)** — A simple time management tool to track, stack, and manage tasks and time spent throughout your day.
+- 🎨 **[Neo Brutalism UI](https://github.com/homayounmmdy/neo-brutalism-ui)** — An open-source UI library inspired by bold Neo-Brutalist design, featuring distinctive components and pages that developers can explore through Storybook.
+**[Live Storybook Demo](https://homayounmmdy.github.io/neo-brutalism-ui/)**
+  
 ### 📝 Personal & Blog
 
 - 📝 **[itshomayoun](https://github.com/homayounmmdy/itshomayoun)** — My personal blog repository where I share experiences, articles, and notes on programming, technology, and daily life. All content is written in Persian.
@@ -194,7 +201,7 @@ These projects are archived, no longer actively maintained, or no longer hosted.
 
 ### 🛠️ Developer Productivity & UI Tools
 
-- ⚡ **[SnappText](https://github.com/homayounmmdy/SnappText)** — Lightning-fast snippet manager for reusable text templates with dynamic placeholders and one-click copy.
+
 - 📦 **[Box Shadow Generator](https://github.com/homayounmmdy/Box-shadow-generator)** — Visually craft perfect CSS box-shadow effects; copy code with one click.
 - 🌈 **[Gradient Generator](https://github.com/homayounmmdy/Gradient-Generator)** — Create beautiful CSS linear gradients on the fly with real-time preview.
 - 🔍 **[SEO Helper](https://github.com/homayounmmdy/SEO-Helper)** — Powerful SEO analysis tool that audits any webpage directly from your browser.
@@ -211,7 +218,6 @@ These projects are archived, no longer actively maintained, or no longer hosted.
 - 🌌 **[Billion Grid](https://github.com/homayounmmdy/billion-grid)** — A high-performance 1,000,000,000 x 1,000,000,000 pixel land-claiming canvas with infinite zoom/pan via HTML5 Canvas and a serverless backend using GitHub Actions & Issues.
 - 🔐 **[Enigma Simulator](https://github.com/homayounmmdy/Enigma-Simulator)** — Python simulation of the WWII German Enigma machine with rotors, reflector, and daily key sheets.
 - 🎬 **[GTA VI Landing](https://github.com/homayounmmdy/gta-vi)** — A full-scale, high-fidelity project replicating immersive AAA launch-style animations, exploring GSAP timelines, ScrollTrigger, and advanced easing in Next.js.
-- ⏱️ **[Time Stack](https://github.com/homayounmmdy/timestack)** — A simple time management tool to track, stack, and manage tasks and time spent throughout your day.
 - 🎮 **[vibeSt0re](https://github.com/homayounmmdy/vibe-st0re)** — Living portfolio of small games, practical tools, and frontend experiments built with vibe coding.
 
 </details>
